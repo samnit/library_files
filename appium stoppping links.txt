@@ -1,0 +1,4 @@
+appium links
+ 
+http://stackoverflow.com/questions/6204003/kill-a-process-by-looking-up-the-port-being-used-by-it-from-a-bat
+https://discuss.appium.io/t/how-to-quit-appium-server-launching-through-command-prompt-listening-on-particular-port-number/9858/4
